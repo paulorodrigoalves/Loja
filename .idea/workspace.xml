@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="749236ef-c498-4a00-89fb-e824d72b2cd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/loja/src/main/java/com/example/loja/models/ItemEstoque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja/src/main/java/com/example/loja/controllers/ProdutoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja/src/main/java/com/example/loja/dto/ProdutoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja/src/main/java/com/example/loja/repositories/ProdutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja/src/main/java/com/example/loja/services/ProdutoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loja/src/main/java/com/example/loja/models/Estoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/loja/src/main/java/com/example/loja/models/Estoque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loja/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loja/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +52,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
